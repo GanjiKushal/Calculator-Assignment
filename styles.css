@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+.container{
+    width:100%;
+    height:100vh;
+}
+.table{
+    margin: auto;
+}
+#output-screen{
+    width: 100%;
+    font-weight: 600;
+}
+button{
+    width: 100% !important;
+    background-color: blue;
+    color: white !important;
+    font-weight: bold !important;
+}
+table tr{
+    border: none !important;
+}
